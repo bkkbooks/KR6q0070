@@ -27,7 +27,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0070_000.yaml, hash: 'sha256:e4cc010e8d0e97633b145bafd65e006fe3fcfa182dbbf3e87dd3c45d15762384'}
+  - {seq: 0, filename: KR6q0070_000.yaml, hash: 'sha256:dff02df6119754fc3e2fd70f96437f2a5af12bbbf8c7c9d19b3ad5e4e0f998d6'}
   - {seq: 1, filename: KR6q0070_001.yaml, hash: 'sha256:93b8e7082ead6ae75ad08f5c556f317c303160a3855ed20afb7d98879814c6d8'}
   - {seq: 2, filename: KR6q0070_002.yaml, hash: 'sha256:6c973fe990ac27ea9898a5a034eb4c84181d80d1db4dd6fda07dab5fc2085f2c'}
   - {seq: 3, filename: KR6q0070_003.yaml, hash: 'sha256:0341ac5129056e3f174371c6c30c87aba4ed6b75d5155a079485d274f4a9accd'}
@@ -38,7 +38,7 @@ assets:
   - {seq: 8, filename: KR6q0070_008.yaml, hash: 'sha256:88479b99387bb8f0cd73eed35bb05d06083a6f8644cca3576f5481990e1eb17a'}
   - {seq: 9, filename: KR6q0070_009.yaml, hash: 'sha256:de27c9c22085be3290cabc40b185698ab021044e93391dd940ad2865944df5bf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0070_000.markers.yaml, hash: 'sha256:245c0199ecb97dfcc9af0a01fce983b048012034e86412504cc461e079efe290'}
+  - {seq: 0, role: markers, filename: assets/KR6q0070_000.markers.yaml, hash: 'sha256:c6243338f66a4b7713101a8ca0e00e9e67b12335f94d608ff2b539a87ab6e11b'}
   - {seq: 1, role: markers, filename: assets/KR6q0070_001.markers.yaml, hash: 'sha256:da4991a53435a64c46611660ccb4a9468d9e1262ca6b8f70a0830dca4dfbd2aa'}
   - {seq: 2, role: markers, filename: assets/KR6q0070_002.markers.yaml, hash: 'sha256:bcfc35d0f5447d00c0476fb4b6cf91de518fd1817bc48b49cbc880d8e6bd83d9'}
   - {seq: 3, role: markers, filename: assets/KR6q0070_003.markers.yaml, hash: 'sha256:7d540e54ba7250ebb8c5e4d9b353209f334f7ce6652afcda288b34213a8b6d3a'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0070_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 天童覺和尚語錄序
@@ -3599,7 +3599,7 @@ table_of_contents:
   label: 勅諡宏智禪師行業記
   type: mulu
   level: 1
-hash: sha256:99facef113706dedaee02d4bf5fca895d1c7046fb3bbe5b92235779044665c59
+hash: sha256:fc5c839d8b51bfcc219fd17d5a2533a2e6c5c836da345efc77788f32e50c9c60
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

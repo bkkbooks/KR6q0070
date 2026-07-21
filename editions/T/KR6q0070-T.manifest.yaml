@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0070_000-T.yaml, hash: 'sha256:172d45228ff9a475ca78b6614feb4a5d5ef12e7745cd9f501735d8a07cdcf6b5'}
+  - {seq: 0, filename: KR6q0070_000-T.yaml, hash: 'sha256:a74b3098715457434f4f89ab7a82849c1592858af3c2af407c5d04727a2f257d'}
   - {seq: 1, filename: KR6q0070_001-T.yaml, hash: 'sha256:1c6fcfe21b10ffb0223704835257d2a8baab4dad7023106bcd4857c5f1b63dc9'}
   - {seq: 2, filename: KR6q0070_002-T.yaml, hash: 'sha256:8abb52dd5ced03d1691ec5c5af244162104596454bf0064c12e1b86333a91a0a'}
   - {seq: 3, filename: KR6q0070_003-T.yaml, hash: 'sha256:68296e4d07a3288c399d8315d64c65d55276b2d0e517efa7634770dfff2b875f'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6q0070_008-T.yaml, hash: 'sha256:8da396431e5b4bfb0b824427909a2a64410791f888c5d2b44c72a17543af460d'}
   - {seq: 9, filename: KR6q0070_009-T.yaml, hash: 'sha256:d1d0ce06fdacedd2298716f73199a7a9c025fb720c1f4e270707fb18407a4703'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0070_000-T.markers.yaml, hash: 'sha256:1600292fa7afd414075c4267715b61b2b895ab81fca2fd3c0dccdf1e7daefc95'}
+  - {seq: 0, role: markers, filename: assets/KR6q0070_000-T.markers.yaml, hash: 'sha256:f3d607c0b1f4b28a74765c6533ddfe389ce8f7182a5ad346ef1e68d916de275c'}
   - {seq: 1, role: markers, filename: assets/KR6q0070_001-T.markers.yaml, hash: 'sha256:9ff913f15b55dded6c60ccf9befeb02f32b680e77cf09a5dfd5f29fb6e813d6c'}
   - {seq: 2, role: markers, filename: assets/KR6q0070_002-T.markers.yaml, hash: 'sha256:8d6f37fa07a4c8dfac8899bcbc2910369ae0c2869a8d15856ccc64ec0021e7bf'}
   - {seq: 3, role: markers, filename: assets/KR6q0070_003-T.markers.yaml, hash: 'sha256:ce296661bab7692e9ed77a380b2b3735e2f94dc26f88fa5674189aac7d1e9a14'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0070_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 天童覺和尚語錄序
@@ -3591,4 +3591,4 @@ table_of_contents:
   label: 勅諡宏智禪師行業記
   type: mulu
   level: 1
-hash: sha256:23656d1bf810cb53de1aa6026d68ff27fc033f0cc4e926bc13ea664e7007febe
+hash: sha256:3b1542ca7bf5d447c8a797d4233c6d96fb1ecd6df93786d0b5e98bd88b2127c1
